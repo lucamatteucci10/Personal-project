@@ -1,31 +1,50 @@
-Portfolio Projects
-Overview
-This repository contains a collection of projects showcasing my skills and experience in various domains. Each project is detailed below along with its purpose, technologies used, and a brief description.
+# Portfolio Projects
 
-Projects
-Project 1: Evalutaing Patient Readmission Risk
-Description: The primary objective of this project is to analyze demographic information, diabetic diagnoses, and medication histories to gain insights into their impact on readmission types. By understanding the factors that influence readmission, we can take informed actions to reduce the occurrence of readmissions..
+## Overview
 
-Technologies Used: Python, Pandas, Matplotlib, Seaborn, Scikitlearn
+This repository comprises a diverse set of projects showcasing expertise in various domains. Each project is meticulously detailed below, encompassing its purpose, utilized technologies, and a succinct description.
 
+---
 
-Project 2: Loan Default Prediction
-Description: The goal is to predict what customers are more likely to default on their loan payments. By analyzing the Lending Club Loan dataset, we aim to create a model that will predict to loan defaults and late payments. We want to make the lending process better, reduce default risk, and increase profitability for lenders.
+## Projects
 
-Technologies Used: Python, Pandas, Scikit learn
+### Project 1: Evaluating Patient Readmission Risk
 
+**Description:** 
+The primary objective is to analyze demographic information, diabetic diagnoses, and medication histories to gain insights into their impact on readmission types. Understanding these factors enables informed actions to reduce readmissions.
 
-Project 3: Technical Stock Analysis of FAANG Companies
-Description: The comprehensive portfolio analysis dashboard evaluates the dynamics of FAANG stocks (Apple, Facebook, Amazon, Netflix, and Google/Alphabet) through a dual-layered approach. The first dashboard provides an overarching view of daily market movers, liquidity patterns, and long-term portfolio trends, offering investors strategic insights for navigating the ever-evolving tech landscape. Meanwhile, the second dashboard delves into the intricacies of technical analysis, employing indicators like OBV, MACD, AD, and RSI to uncover nuanced details on momentum, volatility, and trends. Through visualizations such as candle charts, MACD overlays, and volume indicators, investors can decipher market signals, empowering them to make informed decisions. The combined information from both dashboards equips users with a holistic understanding of FAANG stocks, enabling strategic investment decisions in an ever-changing financial landscape.
+**Technologies Used:** 
+Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 
-Technologies Used: SQL, Google Cloud, Vertex AI, Tableau
+---
 
+### Project 2: Loan Default Prediction
 
+**Description:** 
+The goal is predicting customer default on loan payments using the Lending Club Loan dataset. This model aids in minimizing default risks and enhancing profitability for lenders.
 
-Usage
-Each project folder contains detailed instructions on how to run, test, or explore the project further. Please refer to the respective project's README or documentation for more information.
+**Technologies Used:** 
+Python, Pandas, Scikit-learn
 
-Contact
-Feel free to contact me if you have any questions or feedback regarding these projects. You can reach me at luca@bu.edu.
+---
 
+### Project 3: Technical Stock Analysis of FAANG Companies
+
+**Description:** 
+This project offers a comprehensive portfolio analysis of FAANG stocks (Apple, Facebook, Amazon, Netflix, and Google/Alphabet). Dual-layered dashboards provide daily market movers, liquidity patterns, and intricate technical analyses empowering strategic investment decisions.
+
+**Technologies Used:** 
+SQL, Google Cloud, Vertex AI, Tableau
+
+---
+
+## Usage
+
+Each project folder contains detailed instructions on how to run, test, or explore further. Refer to the respective project's README or documentation for more information.
+
+---
+
+## Contact
+
+For inquiries, questions, or feedback regarding these projects, please reach out via email at luca@bu.edu.
 
